@@ -57,7 +57,7 @@ while True:
     conn, addr = server.accept()
     threading.Thread(target=handle_client, args=(conn, addr)).start()
 ```
-
+![client-server.png](https://github.com/sorrrrow/project_practice/blob/master/docs/img/client-server.png?raw=true)
 
 ## 3. HTML-страницы
 
