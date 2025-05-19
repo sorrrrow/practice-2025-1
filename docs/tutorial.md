@@ -58,6 +58,7 @@ while True:
     threading.Thread(target=handle_client, args=(conn, addr)).start()
 ```
 
+
 ## 3. HTML-страницы
 
 ```index.html
@@ -66,6 +67,7 @@ while True:
 <a href="/about.html">Узнать больше</a>
 
 ```
+![canvas.png](https://github.com/sorrrrow/practice-2025-1/blob/master/docs/img/canvas.png?raw=true)
 
 ## 4. Мини-игра "Котозмейка"
 
