@@ -35,7 +35,7 @@ Markdown использовался как основной формат, соо
 
 На базе проекта был разработан и опубликован полноценный статический веб-сайт, доступный по адресу:
 
-https://sorrrrow.github.io/project-practice/
+https://sorrrrow.github.io/project_practice/
 
 ### Выполненные шаги:
 
