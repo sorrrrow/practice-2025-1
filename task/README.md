@@ -88,7 +88,7 @@ https://sorrrrow.github.io/project-practice/
 
 Эта лекция оказалась особенно ценной. Я поняла, как важно понимать не только свою роль в команде, но и особенности мышления и восприятия других участников. Теперь я лучше осознаю, как говорить с разными типами людей, как не конфликтовать, а дополнять друг друга.
 
-![1.jpg](https://github.com/sorrrrow/practice-2025-1/blob/master/docs/image.png?raw=true)
+![1.jpg](https://github.com/sorrrrow/practice-2025-1/blob/master/docs/img/1.jpg?raw=true)
 
 ## 5. Отчет по практике.
 
