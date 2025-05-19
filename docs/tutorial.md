@@ -13,17 +13,18 @@
 ```
 папка-проекта/
 ├── webserver.py
-├── index.html
-├── about.html
-├── game.html
-├── js/
-│ └── cat_snake.js
-├── css/
-│ └── style.css
-├── images/
-│ └── IMG_....JPG, cat.png, olive.png, persik_bg.jpg
+└── www
+    ├── index.html
+    ├── about.html
+    ├── game.html
+    ├── js/
+    │ └── cat_snake.js
+    ├── css/
+    │ └── style.css
+    ├── images/
+      └── IMG_....JPG, cat.png, olive.png, persik_bg.jpg
 ```
-
+![image.png](https://github.com/sorrrrow/practice-2025-1/blob/master/docs/img/image.png?raw=true)
 ## 2. Создание сервера
 В `webserver.py`:
 
